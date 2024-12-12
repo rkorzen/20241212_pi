@@ -1,0 +1,6 @@
+# Wprowadzenie
+
+## Instalacja pythona
+
+
+
