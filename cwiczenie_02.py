@@ -13,3 +13,20 @@ unikalnych liczb: 2
 srednia: 1.3333333333333333
 
 """
+
+liczby = []
+
+while True:
+    answer = input("podaj liczba lub enter by zakonczyc: ")
+    
+    if not answer:
+        break
+        
+    liczby.append(int(answer))
+
+print(f"""
+wyniki to:
+unikalnych liczb: {len(set(liczby))}
+srednia: {sum(liczby) / len(liczby)}
+
+""")
