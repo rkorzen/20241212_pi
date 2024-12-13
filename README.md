@@ -37,3 +37,14 @@ Windows:
 deaktywacja
 
     deactivate
+
+
+# ankieta
+
+Skrypty w Pythonie. Python dla inżynierów - stacjonarni:
+
+https://www.alx.pl/ankiety/6882jbmx
+
+Skrypty w Pythonie. Python dla inżynierów - zdalni:
+
+https://www.alx.pl/ankiety/6883zdkt
